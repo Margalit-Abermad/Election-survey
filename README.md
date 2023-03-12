@@ -1,6 +1,5 @@
 # Election-survey
 Who would you like to be the next prime minister of Israel?
-#### Attempt to write a README file
 
 ###### Election survey
 You will be able to choose the next Prime Minister of Israel according to a real manual vote,
